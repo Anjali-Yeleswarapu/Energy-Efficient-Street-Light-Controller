@@ -1,1 +1,2 @@
 # Energy-Efficient-Street-Light-Controller
+This project's goal is to make street lights turn on and off automatically when they sense vehicles. We used a small computer called an 8051 Microcontroller and two Infrared (IR) sensors to do this. When a vehicle is detected by the first street light, it turns on. Then, as soon as the same vehicle passes the second street light, the first light turns off. This system saves energy by only lighting up the parts of the road where vehicles are present.
